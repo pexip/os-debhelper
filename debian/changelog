@@ -1,3 +1,9 @@
+debhelper (13.3.4pexip1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Wed, 06 Apr 2022 08:34:10 +0000
+
 debhelper (13.3.4) unstable; urgency=medium
 
   [ Jakub Wilk ]
